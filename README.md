@@ -1,2 +1,2 @@
-# DATA-SCINECE
+# OOPS
 Concepts for Data Science
